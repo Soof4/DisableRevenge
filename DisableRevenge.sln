@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33403.182
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DisableRevenge", "DisableRevenge\DisableRevenge.csproj", "{7D81386D-616C-4352-9749-D44FE4D460BD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7D81386D-616C-4352-9749-D44FE4D460BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D81386D-616C-4352-9749-D44FE4D460BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D81386D-616C-4352-9749-D44FE4D460BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D81386D-616C-4352-9749-D44FE4D460BD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9A8610A4-C6E3-4DE3-A26C-7BAC85118772}
+	EndGlobalSection
+EndGlobal
